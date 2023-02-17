@@ -2,10 +2,25 @@
 {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 
+{{ define "styles" }}
+<link rel="stylesheet" href="/preflight.css">
+<link rel="stylesheet" href="/main.css">
+<link rel="stylesheet" href="/post.css">
+{{ end }}
+
+{{ define "header" }}
+<header class="section">
+    {{ partial "navigation.html" . }}
+    <div class="section">
+      <h1>{{ .Title }}</h1>
+      <p>{{ .Description }}</p>
+    </div>
+</header>
+<hr>
+{{ end }}
+
 {{ define "main" }}
 <main>
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
   <footer id="site-footer">
   {{ range .Site.Menus.socials }}
       <a href="{{ .URL }}" title="{{ .Title }}">
