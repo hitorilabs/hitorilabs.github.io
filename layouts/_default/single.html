@@ -21,6 +21,7 @@
 
 {{ define "main" }}
 <main>
+  {{ .Content }}
   <footer id="site-footer">
   {{ range .Site.Menus.socials }}
       <a href="{{ .URL }}" title="{{ .Title }}">
