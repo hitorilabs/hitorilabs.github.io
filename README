@@ -9,4 +9,6 @@ Features:
 - max width 60ch with 1ch padding
 - center the content on the page
 - fancy ordered list decoration with proper margins
-- make the content look nearly the same in the editor
+- make the content look nearly the same in my editor
+- preflight.css file copied from tailwind to reset styles
+- Hugo template to deal with opengraph meta tags
