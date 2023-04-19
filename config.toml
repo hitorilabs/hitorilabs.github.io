@@ -16,6 +16,12 @@ disableKinds = ["taxonomy", "taxonomyTerm", "category"]
   title = 'hitori labs | posts'
   url = '/posts/'
   weight = 20
+[[menu.main]]
+  identifier = 'snippets'
+  name = 'snippets'
+  title = 'hitori labs | snippets'
+  url = '/snippets'
+  weight = 30
   
 [[menu.socials]]
   name = 'github'
