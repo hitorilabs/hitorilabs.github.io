@@ -1,15 +1,15 @@
-p, ul, ol { 
+
+main > p, main > ul, main > ol { 
     margin-bottom: 2ch;
 }
 
-ul {
+main > ul, main > ol { 
     margin-left: 4ch;
 }
 
 ol {
     counter-reset: list;
     position: relative;
-    margin-left: 4ch;
 }
 ol > li {
     list-style: none;

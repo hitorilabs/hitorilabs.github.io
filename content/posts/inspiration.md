@@ -2,8 +2,7 @@
 title: Inspiration
 summary: |
     I started a pseudonymous account to work on unhinged
-    software + ai projects. Not working on illegal stuff,
-    just air gapping my network from any idiots out there.
+    software + ai projects. Not working on illegal stuff.
 description: |
     what would you do with a momentary spark of motivation?
     bocci learned how to code and started a new venture.
@@ -11,6 +10,7 @@ date: 2023-01-01
 ---
 
 ## origins
+
 Yes - it's true. I started this thing after finishing all
 12 episodes of
 [Bocchi the Rock!](https://en.wikipedia.org/wiki/Bocchi_the_Rock!)
