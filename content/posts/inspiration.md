@@ -15,8 +15,8 @@ Yes - it's true. I started this thing after finishing all
 12 episodes of
 [Bocchi the Rock!](https://en.wikipedia.org/wiki/Bocchi_the_Rock!)
 
-I would work on this stuff on main, but it sounds a lot
-more fun to do it this way. 
+I would work on this stuff on main, but it's going to be a
+lot more fun to do it this way.
 
 ## programming legends
 In all my years of living, I've learned that the greatest
