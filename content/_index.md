@@ -1,5 +1,5 @@
 ---
-title: hitori labs
+title: hitorilabs
 ---
 
 # purpose
@@ -15,9 +15,6 @@ my personal network from any idiots out there.
 
 **I'm a programmer based in Toronto.** The singularity is
 already here, but I might have a chance at being useful if
-I focus on AI work.
-
-I never formally studied this stuff, but I ended up coding
-everyday for fun and for work. 
+I focus on AI.
 
 You can reach me via Twitter DMs or Github.
