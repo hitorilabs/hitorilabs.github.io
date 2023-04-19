@@ -8,7 +8,7 @@ Work in public. No ads. No trackers. No sales funnel.
 
 # who is bocci
 ---
-A funny anime character and pseudonymous identity. 
+A funny anime character and pseudonymous identity.
 
 Plenty of people know who I am IRL - I'm just air gapping
 my personal network from any idiots out there. 
