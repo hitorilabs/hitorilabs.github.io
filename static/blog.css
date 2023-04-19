@@ -1,0 +1,31 @@
+p, ul, ol { 
+    margin-bottom: 2ch;
+}
+
+ul {
+    margin-left: 4ch;
+}
+
+ol {
+    counter-reset: list;
+    position: relative;
+    margin-left: 4ch;
+}
+ol > li {
+    list-style: none;
+}
+ol > li:before {
+    content: "("counter(list) ") ";
+    counter-increment: list;
+    position:absolute;
+    left: -4ch;
+}
+
+a {
+    text-decoration: underline;
+    color: #0000EE;
+}
+
+hr {
+    margin-bottom: 1ch;
+}

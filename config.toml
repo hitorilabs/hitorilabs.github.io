@@ -1,0 +1,36 @@
+baseURL = 'https://hitorilabs.com'
+languageCode = 'en-us'
+title = 'Hitori Labs'
+disableKinds = ["taxonomy", "taxonomyTerm", "category"]
+
+[menu]
+[[menu.main]]
+  identifier = 'home'
+  name = 'home'
+  title = 'hitori labs | home'
+  url = '/'
+  weight = 10
+[[menu.main]]
+  identifier = 'posts'
+  name = 'posts'
+  title = 'hitori labs | posts'
+  url = '/posts/'
+  weight = 20
+  
+[[menu.socials]]
+  name = 'github'
+  url = 'https://github.com/hitorilabs'
+  weight = 10
+[[menu.socials]]
+  name = 'twitter'
+  url = 'https://twitter.com/hitorilabs'
+  weight = 20
+[[menu.socials]]
+  name = 'instagram'
+  url = 'https://www.instagram.com/hitorilabs'
+  weight = 30
+
+[params]
+  description = 'Independent research group working on software for AI'
+  images = ['favicon-16x16.png']
+  title = 'Hitori Labs'

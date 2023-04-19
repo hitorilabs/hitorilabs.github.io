@@ -1,0 +1,19 @@
+<div class="section">
+    <h2>recent posts</h2>
+    <hr>
+    <ul class="contents">
+    {{ range first 10 .Paginator.Pages }}
+        <li class="list-item">
+            <a href="{{ .Permalink }}">
+                <div class="chrono-list">
+                    <span class="chrono-list-date">{{ .Date | time.Format "Jan 02" }}</span>
+                    <span class="chrono-list-label">{{ .Title }}</span>
+                </div>
+            </a>
+        </li>
+    {{ end }}
+    </ul>
+    <span class="seemore">
+        <a href="/posts">see more</a>
+    </span>
+</div>

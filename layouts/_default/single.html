@@ -1,0 +1,17 @@
+{{ define "title" }}
+{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <footer id="site-footer">
+  {{ range .Site.Menus.socials }}
+      <a href="{{ .URL }}" title="{{ .Title }}">
+      {{- .Name -}}
+      </a>
+  {{ end }}
+  </footer>
+</main>
+{{ end }}
