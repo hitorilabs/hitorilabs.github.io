@@ -4,6 +4,8 @@ description: |
     immortalizing some fun stuff that i come across as i
     explore the internet
 draft: false
+images:
+- /apple-touch-icon.png
 ---
 
 [github project research list](https://github.com/stars/hitorilabs/lists/research)
