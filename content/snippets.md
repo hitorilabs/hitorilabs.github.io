@@ -11,7 +11,7 @@ images:
 [github project research list](https://github.com/stars/hitorilabs/lists/research)
 
 LeakingAlpha α
-
+5. [PyTorch Internals](http://blog.ezyang.com/2019/05/pytorch-internals/) - twitter [@ezyang](https://twitter.com/ezyang)
 4. [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html) - twitter [@cHHillee](https://twitter.com/cHHillee)
 3. [Torch Dispatch + FLOP counter](https://dev-discuss.pytorch.org/t/what-and-why-is-torch-dispatch/557) - twitter [@cHHillee](https://twitter.com/cHHillee)
 2. [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301) - twitter [@_akhaliq](https://twitter.com/_akhaliq)
