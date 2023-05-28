@@ -31,10 +31,6 @@ disableKinds = ["taxonomy", "taxonomyTerm", "category"]
   name = 'twitter'
   url = 'https://twitter.com/hitorilabs'
   weight = 20
-[[menu.socials]]
-  name = 'instagram'
-  url = 'https://www.instagram.com/hitorilabs'
-  weight = 30
 
 [params]
   description = 'Independent research group working on software for AI'
