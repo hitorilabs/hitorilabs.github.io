@@ -6,7 +6,7 @@ title: hitorilabs
 ---
 Work in public. No ads. No trackers. No sales funnel.
 
-# who is bocci
+# who is bocchi
 ---
 A funny anime character and pseudonymous identity.
 
