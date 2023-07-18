@@ -35,6 +35,11 @@ disableKinds = ["taxonomy", "taxonomyTerm", "category"]
   name = 'twitch'
   url = 'https://www.twitch.tv/hitorilabs'
   weight = 30
+[[menu.socials]]
+  name = 'mal'
+  url = 'https://myanimelist.net/animelist/hitorilabs'
+  weight = 40
+
 
 [params]
   description = 'Independent research group working on software for AI'
