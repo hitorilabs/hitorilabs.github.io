@@ -12,6 +12,7 @@ images:
 
 LeakingAlpha α
 
+6. [Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 5. [PyTorch Internals](http://blog.ezyang.com/2019/05/pytorch-internals/) - twitter [@ezyang](https://twitter.com/ezyang)
 4. [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html) - twitter [@cHHillee](https://twitter.com/cHHillee)
 3. [Torch Dispatch + FLOP counter](https://dev-discuss.pytorch.org/t/what-and-why-is-torch-dispatch/557) - twitter [@cHHillee](https://twitter.com/cHHillee)
