@@ -7,19 +7,19 @@ disableKinds = ["taxonomy", "taxonomyTerm", "category"]
 [[menu.main]]
   identifier = 'home'
   name = 'home'
-  title = 'hitori labs | home'
+  title = 'hitorilabs | home'
   url = '/'
   weight = 10
 [[menu.main]]
   identifier = 'posts'
   name = 'posts'
-  title = 'hitori labs | posts'
+  title = 'hitorilabs | posts'
   url = '/posts/'
   weight = 20
 [[menu.main]]
   identifier = 'snippets'
   name = 'snippets'
-  title = 'hitori labs | snippets'
+  title = 'hitorilabs | snippets'
   url = '/snippets'
   weight = 30
   
@@ -43,5 +43,5 @@ disableKinds = ["taxonomy", "taxonomyTerm", "category"]
 
 [params]
   description = 'Independent research group working on software for AI'
-  images = ['favicon-16x16.png']
+  images = ['favicon-32x32.png']
   title = 'Hitori Labs'
