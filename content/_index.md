@@ -6,12 +6,9 @@ title: hitorilabs
 ---
 Work in public. No ads. No trackers. No sales funnel.
 
-# who is bocchi
+# who am i?
 ---
-A funny anime character and pseudonymous identity.
-
-Plenty of people know who I am IRL - I'm just air gapping
-my personal network from any idiots out there. 
+anime pfp and pseudonymous identity
 
 **I'm a programmer based in Toronto.** The singularity is
 already here, but I might have a chance at being useful if
