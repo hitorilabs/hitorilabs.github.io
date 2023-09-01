@@ -23,7 +23,7 @@ ol > li:before {
 
 a {
     text-decoration: underline;
-    color: #0000EE;
+    color: var(--link-color);
 }
 
 hr {

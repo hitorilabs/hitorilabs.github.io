@@ -1,7 +1,16 @@
+:root {
+    --bg-color: #f1f1f1;
+    --text-color: #333;
+    --link-color: #0000EE;
+    --gray-accent-color: #dedede;
+}
+
 body {
     margin: auto;
     padding: 0ch 1ch;
     max-width: 60ch;
+    background-color: var(--bg-color);
+    color: var(--text-color);
 }
 
 
@@ -9,25 +18,15 @@ h1, h2, h3 {
     font-weight: bold;
 }
 
-/* ol .toc {
-    counter-reset: section;
-    list-style-type: none;
-}
-
-li .toc ::before {
-    counter-increment: section;
-    content: counters(section, ".") " ";
-} */
-
 #site-navbar,
 #site-footer {
-    background-color: #EEE;
+    background-color: var(--gray-accent-color);
 }
   
 #site-navbar > a, 
 #site-footer > a {
     text-decoration: underline;
-    color: #0000EE;
+    color: var(--link-color);
 }
 
 #site-navbar > a:before, 

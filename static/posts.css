@@ -1,5 +1,5 @@
 .list-item:hover {
-    background-color: #EEE;
+    background-color: var(--gray-accent-color);
 }
 div.chrono-list {
     display: flex;

@@ -1,5 +1,5 @@
 .list-item:hover {
-    background-color: #EEE;
+    background-color: var(--gray-accent-color);
 }
 div.chrono-list {
     display: flex;
@@ -25,11 +25,11 @@ span.chrono-list-date:after {
 span.seemore > a {
     text-decoration: underline;
     display: block;
-    color: #0000EE;
+    color: var(--link-color);
 }
 
 span.seemore > a:hover {
-    background-color: #EEE;
+    background-color: var(--gray-accent-color);
 }
 
 span.seemore > a:before {
