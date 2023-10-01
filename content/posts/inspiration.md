@@ -5,7 +5,7 @@ summary: |
     software + ai projects. Not working on illegal stuff.
 description: |
     what would you do with a momentary spark of motivation?
-    bocci learned how to code and started a new venture.
+    bocchi learned how to code and started a new venture.
 date: 2023-01-01
 ---
 
