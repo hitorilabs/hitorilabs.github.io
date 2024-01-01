@@ -1,7 +1,7 @@
 baseURL = 'https://hitorilabs.com'
 languageCode = 'en-us'
 title = 'hitorilabs'
-disableKinds = ["taxonomy"]
+disableKinds = ["taxonomy", "term"]
 
 [menu]
 [[menu.main]]
