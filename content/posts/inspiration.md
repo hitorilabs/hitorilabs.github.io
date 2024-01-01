@@ -2,7 +2,7 @@
 title: Inspiration
 summary: |
     I started a pseudonymous account to work on unhinged
-    software + ai projects. Not working on illegal stuff.
+    software + ai projects. 
 description: |
     what would you do with a momentary spark of motivation?
     bocchi learned how to code and started a new venture.

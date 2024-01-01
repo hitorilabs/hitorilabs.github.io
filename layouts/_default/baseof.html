@@ -13,6 +13,9 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="manifest" href="/site.webmanifest">
+    {{ with .OutputFormats.Get "rss" -}}
+        {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+    {{ end }}
     {{ template "_internal/opengraph.html" . }}
     {{ block "styles" . }}
         <link rel="stylesheet" href="/preflight.css">

@@ -1,13 +1,21 @@
-
-main > p, main > ul, main > ol { 
+main > p, main > ul, 
+main > ol 
+{ 
     margin-bottom: 2ch;
 }
 
-main > ul, main > ol { 
+main > ol 
+{
     margin-left: 4ch;
 }
 
-ol {
+main > ul
+{
+    margin-left: 2ch;
+}
+
+ol 
+{
     counter-reset: list;
     position: relative;
 }
@@ -28,4 +36,15 @@ a {
 
 hr {
     margin-bottom: 1ch;
+}
+
+blockquote {
+  background: #f9f9f9;
+  margin: 0.5em 0;
+  padding: 0.5em 10px;
+  font-style: italic;
+}
+
+blockquote p {
+  display: inline;
 }

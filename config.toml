@@ -1,7 +1,7 @@
 baseURL = 'https://hitorilabs.com'
 languageCode = 'en-us'
-title = 'Hitori Labs'
-disableKinds = ["taxonomy", "taxonomyTerm", "category"]
+title = 'hitorilabs'
+disableKinds = ["taxonomy"]
 
 [menu]
 [[menu.main]]
@@ -16,12 +16,6 @@ disableKinds = ["taxonomy", "taxonomyTerm", "category"]
   title = 'hitorilabs | posts'
   url = '/posts/'
   weight = 20
-[[menu.main]]
-  identifier = 'snippets'
-  name = 'snippets'
-  title = 'hitorilabs | snippets'
-  url = '/snippets'
-  weight = 30
   
 [[menu.socials]]
   name = 'github'
@@ -44,4 +38,4 @@ disableKinds = ["taxonomy", "taxonomyTerm", "category"]
 [params]
   description = 'Independent research group working on software for AI'
   images = ['favicon-32x32.png']
-  title = 'Hitori Labs'
+  title = 'hitorilabs'
