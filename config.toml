@@ -39,3 +39,6 @@ disableKinds = ["taxonomy", "term"]
   description = 'Independent research group working on software for AI'
   images = ['favicon-32x32.png']
   title = 'hitorilabs'
+
+[outputs]
+  home = ['html']
