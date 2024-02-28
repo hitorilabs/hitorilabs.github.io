@@ -1,5 +1,5 @@
 ---
-title: Inspiration
+title: inspiration
 summary: |
     I started a pseudonymous account to work on unhinged
     software + ai projects. 

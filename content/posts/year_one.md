@@ -1,5 +1,5 @@
 ---
-title: Year One
+title: year one
 summary: |
     It has been officially 1 year since this identity came into existence, but
     what did we actually end up doing with our time? An appreciation and new
