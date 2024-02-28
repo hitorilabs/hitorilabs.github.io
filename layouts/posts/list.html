@@ -12,7 +12,7 @@
         <ul class="contents">
         {{ range where .Paginator.Pages "Section" "posts" }}
             <li class="list-item">
-                <a href="{{ .Permalink }}">
+                <a class="chrono-list-entry" href="{{ .Permalink }}">
                     <div class="chrono-list">
                         <span class="chrono-list-date">{{ .Date | time.Format "02/01/2006" }}</span>
                         <span class="chrono-list-label">{{.Title}}</span>

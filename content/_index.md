@@ -16,3 +16,10 @@ I focus on AI.
 
 You can reach me via Twitter DMs or Github.
 
+# ongoing work/projects
+---
+- homelab build ([hitorilabs/navi](https://github.com/hitorilabs/navi))
+- tour of deep learning basics ([hitorilabs/papers](https://github.com/hitorilabs/papers))
+- developer-coded drawing/animation tool
+- ai character model
+

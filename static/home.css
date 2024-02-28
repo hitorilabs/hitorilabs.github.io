@@ -1,6 +1,12 @@
 .list-item:hover {
     background-color: var(--gray-accent-color);
 }
+
+a.chrono-list-entry {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
 div.chrono-list {
     display: flex;
     justify-content: space-between;
