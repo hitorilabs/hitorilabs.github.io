@@ -4,6 +4,22 @@
 <link rel="stylesheet" href="/home.css">
 {{ end }}
 
+{{ define "seo" }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org/",
+    "@type": "ImageObject",
+    "contentUrl": "{{ .Site.BaseURL }}assets/for_preferred_homie.png",
+    "creditText": "hitorilabs",
+    "creator": {
+        "@type": "Organization",
+        "name": "hitorilabs"
+    },
+    "copyrightNotice": "hitorilabs"
+}
+</script>
+{{ end }}
+
 {{ define "header" }}
 <header class="section">
     {{ partial "navigation.html" . }}
