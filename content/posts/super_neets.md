@@ -18,7 +18,7 @@ traits and behaviors that these people seem to have.
 
 It's all probably just part of a funny bit.
 
-> \> george hotz is a smart... if only he fixed his ego
+> \> george hotz is smart... if only he fixed his ego
 
 Look past the fun and eccentric persona and you'll realize these are good
 people who are actually cracked all around:
@@ -58,6 +58,9 @@ and things will get much worse before it ever seems to get better.
 This is the super neet filter.
 
 # worth an attempt
+
+The super neet is probably an end-game for most people, but many will overstate
+the difficulty and underestimate the time it takes to get there.
 
 ![worth_an_attempt](/assets/for_preferred_homie.png)
 
