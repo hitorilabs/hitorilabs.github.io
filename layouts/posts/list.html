@@ -17,9 +17,7 @@
                         <span class="chrono-list-date">{{ .Date | time.Format "02/01/2006" }}</span>
                         <span class="chrono-list-label">{{.Title}}</span>
                     </div>
-                    <span class="summary">
-                        {{ .Summary }}
-                    </span>
+                    <span class="summary">{{ .Summary }}</span>
                 </a>
             </li>
         {{ end }}
