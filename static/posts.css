@@ -31,7 +31,6 @@ span.chrono-list-date:after {
 
 span.summary {
     display: flex;
-    justify-content: right;
     margin-left: 2ch;
     margin-bottom: 1ch;
 }

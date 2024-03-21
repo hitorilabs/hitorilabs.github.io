@@ -1,7 +1,9 @@
 ---
 title: super neets
-summary: "The universe created neets. We invented the wagie."
-description: "The universe created neets. We invented the wagies."
+summary: |
+    The universe created neets. We invented the wagie.
+description: |
+    The universe created neets. We invented the wagies.
 date: 2024-02-28
 images:
 - /assets/super_neet_theory.png
