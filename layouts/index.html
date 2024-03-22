@@ -5,11 +5,12 @@
 {{ end }}
 
 {{ define "seo" }}
+<meta property="og:image" content="{{ .Site.BaseURL }}one_life.png" />
 <script type="application/ld+json">
 {
     "@context": "https://schema.org/",
     "@type": "ImageObject",
-    "contentUrl": "{{ .Site.BaseURL }}assets/one_life.png",
+    "contentUrl": "{{ .Site.BaseURL }}one_life.png",
     "creditText": "hitorilabs",
     "creator": {
         "@type": "Organization",
