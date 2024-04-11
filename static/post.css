@@ -1,9 +1,9 @@
-ul {
-  display: block;
-  list-style-type: none;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  padding-inline-start: 2ch;
+ul, ol {
+    display: block;
+    list-style-type: none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    padding-inline-start: 2ch;
 }
 
 ul:last-of-type {
@@ -34,7 +34,7 @@ main > p
 
 main > ol 
 {
-    margin-left: 4ch;
+    margin-left: 2ch;
 }
 
 ol 
@@ -42,14 +42,15 @@ ol
     counter-reset: list;
     position: relative;
 }
+
 ol > li {
     list-style: none;
 }
 ol > li:before {
-    content: "("counter(list) ") ";
+    content: "("counter(list) ")";
     counter-increment: list;
     position:absolute;
-    left: -4ch;
+    left: -2ch;
 }
 
 a {
