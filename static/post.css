@@ -1,3 +1,32 @@
+ul {
+  display: block;
+  list-style-type: none;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  padding-inline-start: 2ch;
+}
+
+ul:last-of-type {
+    list-style-position: outside;
+}
+
+li {
+  display: list-item;
+  text-align: match-parent;
+}
+
+ul > li:before {
+    content: "- ";
+    position: absolute;
+    text-indent: -2ch;
+}
+
+::marker {
+  unicode-bidi: isolate;
+  font-variant-numeric: tabular-nums;
+  text-transform: none;
+}
+
 main > p
 { 
     margin-bottom: 1ch;
@@ -6,15 +35,6 @@ main > p
 main > ol 
 {
     margin-left: 4ch;
-}
-
-main > ul
-{
-    margin-left: 2ch;
-}
-
-ul > li:before {
-    content: "- "
 }
 
 ol 
