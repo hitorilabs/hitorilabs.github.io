@@ -1,7 +1,6 @@
-main > p, main > ul, 
-main > ol 
+main > p
 { 
-    margin-bottom: 2ch;
+    margin-bottom: 1ch;
 }
 
 main > ol 
