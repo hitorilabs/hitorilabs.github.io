@@ -2,3 +2,6 @@
 resources
 public
 .hugo_build.lock
+.obsidian
+template.md
+content/log/log_images

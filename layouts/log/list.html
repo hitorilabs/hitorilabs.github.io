@@ -8,13 +8,13 @@
 <main>
     {{ .Content }}
     <div class="section">
-        <h2>all posts</h2>
+        <h2>daily log</h2>
         <ul class="contents">
-        {{ range where .Paginator.Pages "Section" "posts" }}
+        {{ range where .Paginator.Pages "Section" "log" }}
             <li class="list-item">
                 <a class="chrono-list-entry" href="{{ .Permalink }}">
                     <div class="chrono-list">
-                        <span class="chrono-list-date">{{ .Date | time.Format "2006-01-02" }}</span>
+                        <span class="chrono-list-date">{{ .File.BaseFileName }}</span>
                         <span class="chrono-list-label">{{.Title}}</span>
                     </div>
                     <span class="summary">{{ .Summary }}</span>
