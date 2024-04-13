@@ -72,3 +72,15 @@ blockquote {
 blockquote p {
   display: inline;
 }
+
+pre {
+    margin-bottom: 1ch;
+    padding: 1ch;
+    background-color: black;
+    border-radius: 4px;
+    overflow-x: scroll;
+}
+
+code {
+    color: var(--bg-color);
+}
