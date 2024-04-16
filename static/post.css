@@ -1,4 +1,4 @@
-ul, ol {
+main > ul, main > ol {
     display: block;
     list-style-type: none;
     margin-block-start: 1em;
@@ -15,7 +15,7 @@ li {
   text-align: match-parent;
 }
 
-ul > li:before {
+main > ul > li:before {
     content: "- ";
     position: absolute;
     text-indent: -2ch;
