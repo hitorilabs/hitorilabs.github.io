@@ -14,30 +14,16 @@ body {
 }
 
 @font-face {
-    font-family: 'CommitMono';
-    src: url('/fonts/CommitMono-400-Regular.otf') format('opentype');
-    font-weight: 400;
+    font-family: 'JetBrains Mono';
+    src: url('/fonts/JetBrainsMono[wght].ttf') format('truetype');
+    font-weight: 100 900;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'CommitMono';
-    src: url('/fonts/CommitMono-400-Italic.otf') format('opentype');
-    font-weight: 400;
-    font-style: italic;
-}
-  
-@font-face {
-    font-family: 'CommitMono';
-    src: url('/fonts/CommitMono-700-Regular.otf') format('opentype');
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'CommitMono';
-    src: url('/fonts/CommitMono-700-Italic.otf') format('opentype');
-    font-weight: 700;
+    font-family: 'JetBrains Mono';
+    src: url('/fonts/JetBrainsMono-Italic[wght].ttf') format('truetype');
+    font-weight: 100 900;
     font-style: italic;
 }
 
