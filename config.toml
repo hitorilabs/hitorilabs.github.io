@@ -1,4 +1,4 @@
-baseURL = 'https://hitorilabs.com'
+baseURL = 'https://hitorilabs.com/'
 languageCode = 'en-us'
 title = 'hitorilabs'
 disableKinds = ["taxonomy", "term"]
