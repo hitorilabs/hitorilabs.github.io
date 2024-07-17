@@ -1,7 +1,7 @@
 ---
 title: super neets
 summary: |
-    The universe created neets. We invented the wagie.
+    The universe created neets. We invented the wagies.
 description: |
     The universe created neets. We invented the wagies.
 date: 2024-02-28
@@ -13,25 +13,50 @@ images:
 
 ![super neet post](/assets/super_neet_post.png)
 
-I don't think it's just anime pfps, autism, nootropics, or any other obscure
-traits and behaviors that these people seem to have. 
+It's not just that super neets want to have fun - their identity, tastes, and
+abilities have been refined beyond anything you typically see in distribution.
 
-It's all probably just part of a funny bit.
+Looking into their past life, you might notice a pattern of anime pfps, autism,
+nootropics, and other obscure traits and behaviors...
 
-> \> george hotz is smart... if only he fixed his ego
+You might also find it difficult to relate to them...
 
-Look past the fun and eccentric persona and you'll realize these are good
-people who are actually cracked all around:
+> - \> some freak life trajectory from an early age
+> - \> lived through a unique time in history
+> - \> wealthy/intelligent family
+> - \> seemingly irredeemable character trait
+
+Look past the fun and eccentric personas and you'll find honest people who
+still had to figure out the path to becoming extremely well-rounded:
 
 1. strong executive function
 2. deep in a skill tree + well-versed across domains
 3. highly charismatic
 
-Maybe the white pill is that they probably only had slightly above average IQ
-and relatively ordinary circumstances. 
+These people just tend to work hard + read a lot (internet, blogs, books, etc.)
 
-The rest of their success can probably be attributed to the tendency to work
-hard + read a lot (internet, blogs, books, etc.)
+# hypothesis
+
+> "neet" is end game.
+
+"**super neet**" - virtually infinite resources, traversing every branch of the
+tech tree, roaming around handing out side quests to other players
+
+No one reaches this point by trying to be particularly "weird". You're
+observing people who are just trying to fully express their agency.
+
+Any good MMO, leaves room for players to find their own ways to have fun.
+
+> \> no chat/voice?
+
+wave your mouse around, spam crouch, or jump up and down
+
+> \> no cute anime backgrounds?
+
+[mathjax css exploit](https://kennethnym.com/blog/mathjax-css-injection/)
+
+You know what it feels like when you're able to do things you actually _want_
+to do, but it's easy to lose sight of it as you let the years go by...
 
 # the super neet filter
 
@@ -52,15 +77,18 @@ This is good, actually.
 "Doing things that normal people do" keeps you grounded in reality and you'll
 be rewarded quite well for being a good participant in this system.
 
-The thing about becoming a neet *later* in life is that the path is not obvious
-and things will get much worse before it ever seems to get better.
+Deep down you know it could be so much better, but you might be too far gone...
+you already sold out.
+
+The thing about pursuing neet life *later* on is that the path is not obvious
+and things will get much worse before it can ever get better.
 
 This is the super neet filter.
 
 # worth an attempt
 
-The super neet is probably an end-game for most people, but many will overstate
-the difficulty and underestimate the time it takes to get there.
+Many overstate the difficulty and underestimate the time it takes to get
+there.
 
 ![worth_an_attempt](/assets/for_preferred_homie.png)
 
